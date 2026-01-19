@@ -5,6 +5,7 @@ interface ResultCardProps {
   index?: number
 }
 
+
 export default function ResultCard({ data, index }: ResultCardProps) {
   // 提取特殊字段
   const { _id, _index, _score, ...sourceData } = data
