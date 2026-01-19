@@ -10,10 +10,20 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.12.2",
+<<<<<<< HEAD
     "next": "15.5.2",
     "react": "19.1.1",
     "react-dom": "19.1.1",
     "react-syntax-highlighter": "^15.6.6"
+=======
+    "@heroicons/react": "^2.2.0",
+    "next": "15.5.2",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "react-json-view-lite": "^2.5.0",
+    "react-syntax-highlighter": "^15.6.6",
+    "react-textarea-autosize": "^8.5.9"
+>>>>>>> d5f57fd... code for query and index module
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -21,6 +31,10 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+<<<<<<< HEAD
+=======
+    "@types/react-syntax-highlighter": "^15.5.13",
+>>>>>>> d5f57fd... code for query and index module
     "@typescript-eslint/eslint-plugin": "^8.41.0",
     "@typescript-eslint/parser": "^8.41.0",
     "eslint": "^9.34.0",
